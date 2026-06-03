@@ -16,7 +16,7 @@ to support this specific `SoC` and `OEM`.
 Please [report issues here](https://github.com/chickendrop89/device_xiaomi_unified-recovery/issues), or to [my telegram](https://t.me/chickendrop89)
 
 # 🏗️ Build notes:
-For building, upstreaming `KSU-Next`/`SuSFS`, automated builds using actions, [view this wiki](https://github.com/chickendrop89/device_xiaomi_unified-kernel/wiki/Build-notes)
+For building, upstreaming `KSU-Next`/`SuSFS`, automated builds using actions, check my [ack workflow template](https://github.com/dxcvvxd/ack-build-workflow)
 
 # 🏗️ Kernel quirks
 For any other kernel developers out there. 
