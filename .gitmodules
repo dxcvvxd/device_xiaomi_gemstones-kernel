@@ -1,0 +1,10 @@
+[submodule "BBG"]
+	path = Baseband-guard
+	url = https://github.com/vc-teahouse/Baseband-guard
+    shallow = true
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/KernelSU-Next/KernelSU-Next
+[submodule "Baseband-guard"]
+	path = Baseband-guard
+	url = https://github.com/vc-teahouse/Baseband-guard
